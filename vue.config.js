@@ -1,5 +1,5 @@
 const isDev = process.env.NODE_ENV === 'development'
 
 module.exports = {
-  publicPath: isDev ? '/' : '/jest-CI-CD'
+  publicPath: isDev ? '/' : '/jest-CI-CD/'
 }
