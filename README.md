@@ -1,6 +1,6 @@
 # vue-testing-demo
 
-[![codecov](https://codecov.io/gh/lipengzhou/vue-testing-demo/branch/master/graph/badge.svg?token=JS6XNATNMN)](https://codecov.io/gh/lipengzhou/vue-testing-demo) ![](https://github.com/lipengzhou/vue-testing-demo/workflows/Publish%20And%20Deploy%20Demo/badge.svg)
+[![codecov](https://codecov.io/gh/Xuanhee/jest-CI-CD/branch/master/graph/badge.svg?token=4ZRGO81KAT)](https://codecov.io/gh/Xuanhee/jest-CI-CD)
 
 ## Project setup
 ```
